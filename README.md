@@ -2,7 +2,7 @@
 
 npm install in the terminal
 
-## Available Scripts
+## Running in browser
 
 npm start in the terminal (this will open up on Local port 3000
 
